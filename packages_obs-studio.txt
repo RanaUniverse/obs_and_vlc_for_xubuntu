@@ -41,7 +41,7 @@ http://archive.ubuntu.com/ubuntu/pool/universe/p/pupnp/libixml11t64_1.14.18-1.1u
 http://archive.ubuntu.com/ubuntu/pool/universe/libk/libkate/libkate1_0.4.1-11build2_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/main/t/talloc/libtalloc2_2.4.2-1build2_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/main/t/tevent/libtevent0t64_0.16.1-2build1_amd64.deb
-http://archive.ubuntu.com/ubuntu/pool/main/s/samba/libldb2_2.8.0%2bsamba4.19.5%2bdfsg-4ubuntu9.2_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/main/s/samba/libldb2_2.8.0%2bsamba4.19.5%2bdfsg-4ubuntu9.3_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/main/l/lirc/liblirc-client0t64_0.10.2-0.8build1_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/universe/l/lua5.2/liblua5.2-0_5.2.4-3build2_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/universe/l/luajit/libluajit-5.1-common_2.1.0%2bgit20231223.c525bcb%2bdfsg-1_all.deb
@@ -100,12 +100,11 @@ http://archive.ubuntu.com/ubuntu/pool/universe/q/qt6-wayland/libqt6wlshellintegr
 http://archive.ubuntu.com/ubuntu/pool/universe/q/qt6-base/libqt6xml6t64_6.4.2%2bdfsg-21.1build5_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/universe/s/sidplay-libs/libresid-builder0c2a_2.1.1-15ubuntu3_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/universe/s/sidplay-libs/libsidplay2_2.1.1-15ubuntu3_amd64.deb
-http://archive.ubuntu.com/ubuntu/pool/main/s/samba/libwbclient0_4.19.5%2bdfsg-4ubuntu9.2_amd64.deb
-http://archive.ubuntu.com/ubuntu/pool/main/s/samba/samba-libs_4.19.5%2bdfsg-4ubuntu9.2_amd64.deb
-http://archive.ubuntu.com/ubuntu/pool/main/s/samba/libsmbclient0_4.19.5%2bdfsg-4ubuntu9.2_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/main/s/samba/libwbclient0_4.19.5%2bdfsg-4ubuntu9.3_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/main/s/samba/samba-libs_4.19.5%2bdfsg-4ubuntu9.3_amd64.deb
+http://archive.ubuntu.com/ubuntu/pool/main/s/samba/libsmbclient0_4.19.5%2bdfsg-4ubuntu9.3_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/universe/libs/libspatialaudio/libspatialaudio0t64_0.3.0%2bgit20180730%2bdfsg1-2.1build1_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/universe/s/srt/libsrt1.5-openssl_1.5.3-1build2_amd64.deb
-http://archive.ubuntu.com/ubuntu/pool/main/libs/libssh/libssh-4_0.10.6-2ubuntu0.1_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/main/libs/libssh2/libssh2-1t64_1.11.0-4.1build2_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/universe/p/pupnp/libupnp17t64_1.14.18-1.1ubuntu2_amd64.deb
 http://archive.ubuntu.com/ubuntu/pool/universe/libv/libva/libva-wayland2_2.20.0-2build1_amd64.deb
